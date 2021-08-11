@@ -1,4 +1,4 @@
-<img src="https://github.com/zhyhan/Transfer-Learning-Library/TransPar.png"/>
+<img src="https://github.com/zhyhan/TransPar/blob/main/TransPar.png"/>
 
 ## Introduction
 *TransPar* is an open-source and well-documented library for Transferable Parameter Learning. It is based on pure PyTorch and the [Transfer Learning Library](https://github.com/thuml/Transfer-Learning-Library/tree/master) (Nice library!). Our code is pythonic, and the design is consistent with torchvision. You can easily develop new algorithms, or readily apply existing algorithms.
